@@ -6,8 +6,13 @@
 	objectVersion = 90;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		9542EBE03088BD2C0055DEA6 /* Amjad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9542EBDF3088BD280055DEA6 /* Amjad.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		000000000000000000000120 /* LujainPresentMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LujainPresentMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9542EBDF3088BD280055DEA6 /* Amjad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amjad.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -31,6 +36,7 @@
 			isa = PBXGroup;
 			children = (
 				000000000000000000000010 /* LujainPresentMe */,
+				9542EBDF3088BD280055DEA6 /* Amjad.swift */,
 				000000000000000000000020 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -110,6 +116,7 @@
 		000000000000000120000000 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			files = (
+				9542EBE03088BD2C0055DEA6 /* Amjad.swift in Sources */,
 			);
 		};
 /* End PBXSourcesBuildPhase section */
@@ -252,7 +259,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = XB2YK8FA66;
+				DEVELOPMENT_TEAM = S53W62N3WA;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
@@ -290,7 +297,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = XB2YK8FA66;
+				DEVELOPMENT_TEAM = S53W62N3WA;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SELECTED_FILES = readonly;
